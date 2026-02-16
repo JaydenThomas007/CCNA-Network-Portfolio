@@ -14,7 +14,7 @@ Welcome to my technical lab portfolio. This repository documents my hands-on jou
   * HR Dept: 4 Employees.
   * Management: 2 IT Admins.
 * **Key Tasks:** * Configured 802.1Q encapsulation on Cisco 7200 sub-interfaces.
-  * Established VLANs 10 (Sales), 20 (HR) and 30 (IT) on the cisco L3 switch.
+  * Established VLANs 10 (Sales), 20 (HR) and 99 (IT) on the cisco L3 switch.
   * Assigned IP address for each device
     * Network: 192.168.0.0/24
     * VLSM: Reason a slash 28 and 29 was used to create a large enough space for potential growth
