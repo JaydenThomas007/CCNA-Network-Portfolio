@@ -12,17 +12,6 @@ Welcome to my technical lab portfolio. This repository documents my hands-on jou
 * **Key Tasks:** * Configured 802.1Q encapsulation on Cisco 7200 sub-interfaces.
   * Established VLANs 10 (Sales) and 20 (HR) on a vIOS-L3 switch.
 * **Verification:** Successfully performed inter-VLAN pings between VPCs.
-* [View Phase 1 Configs](https://github.com/JaydenThomas007/CCNA-Network-Portfolio/tree/main/configs/phase1) | [View Phase 1 Diagram](./images/phase1-topo.png)
+* [View Phase 1 Configs](https://github.com/JaydenThomas007/CCNA-Network-Portfolio/tree/main/configs/phase1) | [View Phase 1 Diagram](https://github.com/JaydenThomas007/CCNA-Network-Portfolio/tree/main/images/phase1-topo.png)
 
 ---
-
-### Phase 2: Redundancy & High Availability (In Progress)
-*Adding Spanning Tree optimization, EtherChannel, and FHRP.*
-
-* **Status:** Currently configuring LACP EtherChannel between distribution switches.
-* **Next Steps:** Implement HSRP for gateway redundancy.
-
----
-
-### Phase 3: The Secure Edge (Upcoming)
-*Integrating OSPF routing and Fortinet Firewall policies.*
