@@ -7,7 +7,7 @@ Welcome to my technical lab portfolio. This repository documents my hands-on jou
 **Goal:** Build a modular branch network from a simple ROAS design to a high-availability enterprise edge.
 
 ### Phase 1: Router-on-a-Stick (Completed)
-*Implemented basic Inter-VLAN routing and DHCP services.*
+*Implemented basic Inter-VLAN routing*
 
 * **Key Tasks:** * Configured 802.1Q encapsulation on Cisco 7200 sub-interfaces.
   * Established VLANs 10 (Sales) and 20 (HR) on a vIOS-L3 switch.
@@ -24,5 +24,5 @@ Welcome to my technical lab portfolio. This repository documents my hands-on jou
 
 ---
 
-### 📍 Phase 3: The Secure Edge (Upcoming)
+### Phase 3: The Secure Edge (Upcoming)
 *Integrating OSPF routing and Fortinet Firewall policies.*
