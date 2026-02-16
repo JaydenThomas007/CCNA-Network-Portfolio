@@ -16,8 +16,11 @@ Welcome to my technical lab portfolio. This repository documents my hands-on jou
 * **Key Tasks:** * Configured 802.1Q encapsulation on Cisco 7200 sub-interfaces.
   * Established VLANs 10 (Sales), 20 (HR) and 30 (IT) on the cisco L3 switch.
   * Assigned IP address for each device
-    * Network: 172.16.0.0/16
-    * VLSM: 
+    * Network: 192.168.0.0/24
+    * VLSM
+      * Sales: 192.168.0.0-15/28
+      * HR: 192.168.0.16-31/28
+      * Management: 192.168.0.32-39/29
   * Create a management vlan to separate administrative traffic
 * **Verification:** Successfully performed inter-VLAN pings between VPCs.
 * [View Phase 1 Configs](https://github.com/JaydenThomas007/CCNA-Network-Portfolio/tree/main/configs/phase1) | [View Phase 1 Diagram](./images/phase1.png)
