@@ -9,7 +9,7 @@ Welcome to my technical lab portfolio. This repository documents my hands-on jou
 ### Phase 1: The Startup (Router-on-a-Stick)
 *Implemented basic Inter-VLAN routing*
 * **The Requirements** *
-* The CEO of CloudBound Tech my simulated company has given you these headcounts:
+* The CEO of CloudBound Tech my simulated company has given me these headcounts:
   * Sales Dept: 6 Employees.
   * HR Dept: 4 Employees.
   * Management: 2 IT Admins.
