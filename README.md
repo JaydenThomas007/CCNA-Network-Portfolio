@@ -17,7 +17,7 @@ Welcome to my technical lab portfolio. This repository documents my hands-on jou
   * Established VLANs 10 (Sales), 20 (HR) and 30 (IT) on the cisco L3 switch.
   * Assigned IP address for each device
     * Network: 192.168.0.0/24
-    * VLSM
+    * VLSM: Reason a slash 28 and 29 was used to create a large enough space for potential growth
       * Sales: 192.168.0.0-15/28
       * HR: 192.168.0.16-31/28
       * Management: 192.168.0.32-39/29
